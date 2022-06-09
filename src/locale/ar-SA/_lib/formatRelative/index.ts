@@ -1,7 +1,7 @@
 import type { FormatRelativeFn } from '../../../types'
 
 const formatRelativeLocale = {
-  lastWeek: "'أخر' eeee 'عند' p",
+  lastWeek: "'آخر' eeee 'عند' p",
   yesterday: "'أمس عند' p",
   today: "'اليوم عند' p",
   tomorrow: "'غداً عند' p",
